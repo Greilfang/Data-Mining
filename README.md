@@ -1,2 +1,2 @@
 # Data-Mining
-Data-Mining Course Project
+Data-Mining Course Assignments.
